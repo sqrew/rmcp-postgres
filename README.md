@@ -226,10 +226,6 @@ Contributions welcome! Please feel free to submit issues or pull requests.
 
 MIT
 
-## Author
-
-Nicholas Manson
-
 ## Related Projects
 
 - [rmcp](https://github.com/JosephCatrambone/rmcp) - Rust MCP SDK
