@@ -1,6 +1,6 @@
 # rmcp-postgres
 
-A PostgreSQL MCP (Model Context Protocol) server built with [rmcp](https://github.com/JosephCatrambone/rmcp), the Rust MCP SDK.
+A PostgreSQL MCP (Model Context Protocol) server built with [rmcp] https://github.com/modelcontextprotocol/rust-sdk, the Rust MCP SDK.
 
 Provides comprehensive PostgreSQL database access through MCP tools for querying, inserting, updating, deleting, and inspecting database schemas.
 
@@ -15,7 +15,7 @@ Provides comprehensive PostgreSQL database access through MCP tools for querying
 
 ## Installation
 
-### From crates.io (coming soon)
+### From crates.io
 
 ```bash
 cargo install rmcp-postgres
